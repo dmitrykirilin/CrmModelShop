@@ -1,0 +1,12 @@
+D:\Projects\CrmModelShop\CrmBl\bin\Debug\CrmBl.dll.config
+D:\Projects\CrmModelShop\CrmBl\bin\Debug\CrmBl.dll
+D:\Projects\CrmModelShop\CrmBl\bin\Debug\CrmBl.pdb
+D:\Projects\CrmModelShop\CrmBl\bin\Debug\EntityFramework.dll
+D:\Projects\CrmModelShop\CrmBl\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\CrmModelShop\CrmBl\bin\Debug\EntityFramework.xml
+D:\Projects\CrmModelShop\CrmBl\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\CrmModelShop\CrmBl\obj\Debug\CrmBl.csprojAssemblyReference.cache
+D:\Projects\CrmModelShop\CrmBl\obj\Debug\CrmBl.csproj.CoreCompileInputs.cache
+D:\Projects\CrmModelShop\CrmBl\obj\Debug\CrmBl.csproj.CopyComplete
+D:\Projects\CrmModelShop\CrmBl\obj\Debug\CrmBl.dll
+D:\Projects\CrmModelShop\CrmBl\obj\Debug\CrmBl.pdb
